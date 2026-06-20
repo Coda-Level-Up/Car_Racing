@@ -17,8 +17,8 @@ This is an early-stage, initial prototype of a 2D Android racing game built enti
 * **Trigonometric Math** (`atan2` for angle calculation)
 
 ## Screenshots
-Screenshots racing car 1: ![main car](images/car_red_1_m_model.png)  
-the steering wheel: ![steering_wheel](image/steering_wheel.png)  
+Racing car 1: ![main car](images/car_red_1_m_model.png)  
+The steering wheel: ![steering_wheel](image/steering_wheel.png)  
 
 ---
 *Stay tuned for more updates as the game logic expands!*
