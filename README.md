@@ -19,7 +19,10 @@ This is an early-stage, initial prototype of a 2D Android racing game built enti
 ## Screenshots
 Racing car 1: ![main car](images/car_red_1_m_model.png)  
 The steering wheel: ![steering_wheel](images/steering_wheel.png)  
+
 Normal accelerator pedal setting: ![accelerator_pedal_off](images/throttle_off.png) 
+
 Pressing the accelerator pedal: ![accelerator_pedal_on](images/throttle_on.png)  
+
 ---
 *Stay tuned for more updates as the game logic expands!*
