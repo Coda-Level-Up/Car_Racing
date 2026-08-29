@@ -2,7 +2,7 @@
 
 This is an early-stage, initial prototype of a 2D Android racing game built entirely using modern UI development with **Jetpack Compose**. 
 
-⚠️ **IMPORTANT NOTE:** This project is currently **under active development** and is **NOT** a completed game. More features, tracks, and physics will be added in future updates.
+⚠️ **IMPORTANT NOTE:** This project is currently **under active development** and is **NOT** a completed game. More features will be added in future updates.
 
 ## Current Features Implemented:
 * **Car Model Rendering:** The red car asset is rendered and managed dynamically inside a `Canvas` using custom transformations (translation, rotation, and scaling).
