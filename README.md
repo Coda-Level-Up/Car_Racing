@@ -24,5 +24,11 @@ Normal accelerator pedal setting: ![accelerator_pedal_off](images/throttle_off.p
 
 Pressing the accelerator pedal: ![accelerator_pedal_on](images/throttle_on.png)  
 
+⚠️ **IMPORTANT NOTE:**
+     The track image size is too big to be uploading here , 
+     But you can get it : [https://github.com/Coda-Level-Up/Car_Racing](https://github.com/Coda-Level-Up/Car_Racing)
+
+The path of track 1: ![ready path of track 1](images/ready_path_of_track_1.png)  
+
 ---
 *Stay tuned for more updates as the game logic expands!*
