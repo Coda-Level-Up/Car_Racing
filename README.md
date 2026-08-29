@@ -26,7 +26,7 @@ Pressing the accelerator pedal: ![accelerator_pedal_on](images/throttle_on.png)
 
 ⚠️ **IMPORTANT NOTE:**
      The track image size is too big to be uploading here , 
-     But you can get it : [https://github.com/Coda-Level-Up/Car_Racing](https://github.com/Coda-Level-Up/Car_Racing)
+     But you can get All THE TRACK's HERE FREE : [Coda Car Racing TRACKS]([https://github.com/Coda-Level-Up/Car_Racing](https://www.patreon.com/codaLevelUp/posts/racing-tracks-168027608))
 
 The path of track 1: ![ready path of track 1](images/ready_path_of_track_1.png)  
 
